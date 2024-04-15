@@ -11,7 +11,7 @@ const Page = () => {
         </h1>
         <p className="max-w-[350px] text-[16px] text-gray-200 md:text-gray-400">
         Unlock the power of expertise! Delve into our array of honed talents and capabilities, finely tuned to meet the demands of modern digital landscapes. From web design to development, 
-        SEO strategies to graphic mastery, our skills are your gateway to success. Explore our proficiency, trust in our craftsmanship, and let's elevate your digital presence together
+        SEO strategies to graphic mastery, our skills are your gateway to success. Explore our proficiency, trust in our craftsmanship, and lets elevate your digital presence together
         </p>
         </div>
         <div className='absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75'>
