@@ -21,11 +21,10 @@ export default function Home() {
       <div className="flex flex-col gap-3 z-[10] pl-40 pt-20">
         <h1 className="text-[50px] text-white max-w-[500px]">
         Welcome to{" "}
-          <span className="text-red-500">PPS</span>
+          <span className="text-red-500">Portfolio</span>
         </h1>
         <p className="text-[18px] text-white mb-10 md:pb-2 max-w-[400px]">
-        where creativity intersects with innovation! We specialize in crafting seamless, 
-        impactful websites tailored specifically to your needs. Explore our portfolio and services to realize your digital vision today!
+        I specialize in crafting seamless, impactful websites tailored specifically to your needs. Explore my portfolio and services to realize your digital vision today!
         </p>
         <div className="relative w-[100px] h-[100px] md:w-[160px] md:h-[160px] mt-5">
           <Image

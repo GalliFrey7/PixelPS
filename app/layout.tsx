@@ -7,8 +7,8 @@ import Sidebar from '@/components/Sidebar'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'PixelPerfect Solutions',
-  description: 'PixelPerfect Solutions is a digital agency specializing in creating visually stunning and user-friendly websites for clients across various industries.',
+  title: 'GaLLiFrey Portfolio',
+  description: 'Portfolio of my own project and skills',
 }
 
 export default function RootLayout({

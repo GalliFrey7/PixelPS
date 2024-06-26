@@ -2,9 +2,7 @@ import {
   RxCrop,
   RxDesktop,
   RxPencil2,
-  RxReader,
-  RxRocket,
-  RxAccessibility,
+  RxCode,
   RxHome,
   RxPerson,
   RxDashboard,
@@ -45,69 +43,48 @@ export const NavLinks = [
 
 export const ProImages = [
   {
-    src: "/assets/projects/pro.png",
+    src: "/assets/projects/1.jpg",
+    url: "https://acme-corp-tau.vercel.app/",
   },
   {
-    src: "/assets/projects/pro.png",
+    src: "/assets/projects/2.jpg",
+    url: "https://web-wizards-studios-beta.vercel.app/",
   },
   {
-    src: "/assets/projects/pro.png",
+    src: "/assets/projects/3.jpg",
+    url: "https://vr-5cfoniv2w-gallifreys-projects.vercel.app/",
   },
   {
-    src: "/assets/projects/pro.png",
+    src: "/assets/projects/4.jpg",
+    url: "/",
   },
 ];
 
-export const ProImages2 = [
-  {
-    src: "/assets/projects/pro.png",
-  },
-  {
-    src: "/assets/projects/pro.png",
-  },
-  {
-    src: "/assets/projects/pro.png",
-  },
-  {
-    src: "/assets/projects/pro.png",
-  },
-];
+
 
 export const ServiceData = [
   {
-    icon: RxReader,
-    title: "Seo",
-    content: "Maximize online reach effortlessly. Elevate rankings, drive organic traffic, and outshine competitors with our expert SEO solutions.",
+    icon: RxCode  ,
+    title: "Web Development",
+    content: "Developing clean and efficient code for dynamic and responsive websites. Specialized in HTML, CSS, JavaScript, and React.",
     backgroundImage: "/assets/space/red.png",
   },
   {
     icon: RxCrop,
-    title: "Development",
-    content: "From start to finish, we craft agile solutions for your success. Trust our expertise to propel your projects forward.",
+    title: "Graphic Design",
+    content: "Creating visually appealing designs for branding, advertising, and corporate print materials. Utilizing modern design tools.",
     backgroundImage: "/assets/space/ore.png",
   },
   {
     icon: RxPencil2,
-    title: "Branding",
-    content: "Craft captivating visuals and narratives that resonate with our streamlined branding services.",
+    title: "Communications",
+    content: "Developing effective communication strategies to strengthen brand presence and improve engagement with clients and partners.",
     backgroundImage: "/assets/space/yel1.avif",
   },
   {
     icon: RxDesktop,
-    title: "Design",
-    content: "Capture attention with our expert design services. Elevate your brand with our creative expertise.",
+    title: "Research and Development",
+    content: "Conducting research on new technologies and developing innovative solutions to advance in the market.",
     backgroundImage: "/assets/space/gre.png",
-  },
-  {
-    icon: RxAccessibility,
-    title: "Management",
-    content: "Optimize operations with our expertise. Trust us to lead your team to success.",
-    backgroundImage: "/assets/space/blu.jpg",
-  },
-  {
-    icon: RxRocket,
-    title: "Production",
-    content: "Optimize your workflow with our expertise. Streamline processes and drive success with our tailored solutions.",
-    backgroundImage: "/assets/space/blu2.webp",
   },
 ];
