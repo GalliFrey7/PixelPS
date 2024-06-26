@@ -13,7 +13,7 @@ const Page = () => {
         My expertise encompasses web development, SEO optimization, and graphic design, all finely honed to meet the challenges of today's digital landscapes. I am committed to continual learning and mastery in my crafts, ensuring each project not only meets but exceeds expectations. Let’s collaborate to amplify your digital presence through innovative solutions and expert execution. Together, we can achieve exceptional results.
         </p>
         </div>
-        <div className='absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75'>
+        <div className="absolute -left-36 bottom-5 rotate-12 animate-pulse duration-75">
       <Image
       src="/assets/bulb.png"
       alt='bulb'
